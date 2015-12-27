@@ -1,4 +1,5 @@
-doc <- htmlParse('accommodation-list-winter')
+download.file('http://www.oetztal.com/accommodation-list-winter#searchfilter','f0.html','wget',extra='--post-data "search=1&feratelSort=1&feratelOffset=0"')
+doc <- htmlParse('f0.html')
 name=c()
 email=c()
 for ( i in seq(1,10) ){
@@ -12,3 +13,4 @@ for ( i in seq(1,10) ){
 }
 
 df<-data.frame(name=name,email=email)
+print(df)
