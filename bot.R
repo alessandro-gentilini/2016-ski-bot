@@ -1,7 +1,8 @@
+library(XML)
 name=c()
 email=c()
 
-for ( j in seq(0,20,10) ) {
+for ( j in seq(0,1534,10) ) {
   cl_options <- paste('--post-data "search=1&feratelSort=1&feratelOffset=',j,sep='')
   cl_options <- paste(cl_options,'"',sep='')
   download.file('http://www.oetztal.com/accommodation-list-winter#searchfilter','f0.html','wget',extra=cl_options)
