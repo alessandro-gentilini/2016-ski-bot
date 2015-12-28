@@ -19,8 +19,13 @@ for ( j in seq(0,1534,10) ) {
     
     email_xpath = paste('//*[@id="templ-housinglist"]/div[2]/div/section/ul/li[',i,sep='')
     email_xpath = paste(email_xpath,']/section[3]/p/a[2]',sep='')
-    email=c(email,xpathSApply(doc,email_xpath,xmlValue))
-    local_email = c(local_email,xpathSApply(doc,email_xpath,xmlValue))
+    x<-xpathSApply(doc,email_xpath,xmlValue)
+    if(is.null(x) || length(x)==0 || x==''){
+      x='no_mail'
+      print('************************NO MAIL***************')
+    }
+    email=c(email,x)
+    local_email = c(local_email,x)
   }
   if(length(local_name)==length(local_email)){
     df <- data.frame(name=local_name,email=local_email)
