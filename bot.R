@@ -5,7 +5,9 @@ email=c()
 for ( j in seq(0,1534,10) ) {
   cl_options <- paste('--post-data "search=1&feratelSort=1&feratelOffset=',j,sep='')
   cl_options <- paste(cl_options,'"',sep='')
-  download.file('http://www.oetztal.com/accommodation-list-winter#searchfilter','f0.html','wget',extra=cl_options)
+  file_name = paste('f_',j,sep='')
+  file_name = paste(file_name,'.html',sep='')
+  download.file('http://www.oetztal.com/accommodation-list-winter#searchfilter',file_name,'wget',extra=cl_options)
   doc <- htmlParse('f0.html')
   local_name = c()
   local_email = c()
@@ -20,10 +22,12 @@ for ( j in seq(0,1534,10) ) {
     email=c(email,xpathSApply(doc,email_xpath,xmlValue))
     local_email = c(local_email,xpathSApply(doc,email_xpath,xmlValue))
   }
-  df <- data.frame(name=local_name,email=local_email)
-  file_name = paste('list_',j,sep='')
-  file_name = paste(file_name,'.txt',sep='')
-  write.table(df,file=file_name, row.names = FALSE, sep=",", quote=FALSE)  
+  if(length(local_name)==length(local_email)){
+    df <- data.frame(name=local_name,email=local_email)
+    file_name = paste('list_',j,sep='')
+    file_name = paste(file_name,'.txt',sep='')
+    write.table(df,file=file_name, row.names = FALSE, sep=",", quote=FALSE)  
+  }
 }
 
 df<-data.frame(name=name,email=email)
