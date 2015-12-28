@@ -8,7 +8,7 @@ for ( j in seq(0,1534,10) ) {
   file_name = paste('f_',j,sep='')
   file_name = paste(file_name,'.html',sep='')
   download.file('http://www.oetztal.com/accommodation-list-winter#searchfilter',file_name,'wget',extra=cl_options)
-  doc <- htmlParse('f0.html')
+  doc <- htmlParse(file_name)
   local_name = c()
   local_email = c()
   for ( i in seq(1,10) ){
