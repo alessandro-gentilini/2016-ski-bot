@@ -16,7 +16,11 @@ extract_info <- function(file_name)
       name_xpath = paste('//*[@id="templ-housinglist"]/div[2]/div/section/ul/li[',i,sep='')
       name_xpath = paste(name_xpath,']/section[2]',sep='')
       x<-xpathSApply(doc,name_xpath,xmlValue)     
-      x<-strsplit(x,'\n')[[1]][2]
+      if(is.null(x)){
+        x<-'no_name'
+      } else {
+        x<-strsplit(x,'\n')[[1]][2]
+      }
     }
     local_name=c(local_name,x)
 
