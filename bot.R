@@ -3,7 +3,7 @@ name=c()
 email=c()
 
 for ( j in seq(0,1534,10) ) {
-  cl_options <- paste('--post-data "search=1&feratelSort=1&feratelOffset=',j,sep='')
+  cl_options <- paste('--post-data "search=1&feratelSort=3&feratelOffset=',j,sep='')
   cl_options <- paste(cl_options,'"',sep='')
   file_name = paste('f_',j,sep='')
   file_name = paste(file_name,'.html',sep='')
