@@ -7,15 +7,23 @@ for ( j in seq(0,1534,10) ) {
   cl_options <- paste(cl_options,'"',sep='')
   download.file('http://www.oetztal.com/accommodation-list-winter#searchfilter','f0.html','wget',extra=cl_options)
   doc <- htmlParse('f0.html')
+  local_name = c()
+  local_email = c()
   for ( i in seq(1,10) ){
     name_xpath = paste('//*[@id="templ-housinglist"]/div[2]/div/section/ul/li[',i,sep='')
     name_xpath = paste(name_xpath,']/section[2]/a',sep='')
     name=c(name,xpathSApply(doc,name_xpath,xmlValue))
+    local_name=c(local_name,xpathSApply(doc,name_xpath,xmlValue))
     
     email_xpath = paste('//*[@id="templ-housinglist"]/div[2]/div/section/ul/li[',i,sep='')
     email_xpath = paste(email_xpath,']/section[3]/p/a[2]',sep='')
     email=c(email,xpathSApply(doc,email_xpath,xmlValue))
+    local_email = c(local_email,xpathSApply(doc,email_xpath,xmlValue))
   }
+  df <- data.frame(name=local_name,email=local_email)
+  file_name = paste('list_',j,sep='')
+  file_name = paste(file_name,'.txt',sep='')
+  write.table(df,file=file_name, row.names = FALSE, sep=",", quote=FALSE)  
 }
 
 df<-data.frame(name=name,email=email)
