@@ -55,7 +55,7 @@ extract_info <- function(file_name)
     df <- data.frame(name=local_name,email=local_email)
     file_name = paste('list_',j,sep='')
     file_name = paste(file_name,'.txt',sep='')
-    write.table(df,file=file_name, row.names = FALSE, sep=",", quote=FALSE)  
+    write.table(df,file=file_name, row.names = FALSE, sep="|", quote=FALSE)  
   }
 
   return(data.frame(name=local_name,email=local_email))
@@ -77,4 +77,4 @@ for ( j in seq(0,1536,10) ) {
 
 df<-data.frame(name=name,email=email)
 print(df)
-write.table(df,file="list.txt", row.names = FALSE, sep=",", quote=FALSE)
+write.table(df,file="list.txt", row.names = FALSE, sep="|", quote=FALSE)
