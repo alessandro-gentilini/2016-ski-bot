@@ -30,4 +30,21 @@ def send_email(sender,password,recipient,subject,body):
 
 import sys
 
-send_email(sys.argv[1],sys.argv[2],sys.argv[3],'subject','body')
+sender = sys.argv[1]
+password = sys.argv[2]
+recipient = sys.argv[3]
+
+import time
+
+subject = 'Request for an accomodation (%s)'
+body = 'Dear %s,\nwe are looking for an accomodation for n people for m night.'
+
+lines = [line.rstrip('\n') for line in open('list_1520.txt')]
+
+for line in lines[1:]:
+	name_email = line.split('|')
+	name = name_email[0].lstrip()
+	email = name_email[1]
+	send_email(sender,password,recipient,subject % name,body % name)
+	print name
+	time.sleep(3)
