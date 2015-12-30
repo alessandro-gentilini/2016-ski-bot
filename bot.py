@@ -4,23 +4,17 @@
 # http://www.google.com/settings/security/lesssecureapps
 # "Less secure apps access" must be enabled!
 
-def send_email(sender,password,recipient):
+def send_email(sender,password,recipient,subject,body):
 	# Import smtplib for the actual sending function
 	import smtplib
 
 	# Import the email modules we'll need
 	from email.mime.text import MIMEText
 
-	textfile='bot.py'
-
-	# Open a plain text file for reading.  For this example, assume that
-	# the text file contains only ASCII characters.
-	fp = open(textfile, 'rb')
 	# Create a text/plain message
-	msg = MIMEText(fp.read())
-	fp.close()
+	msg = MIMEText(body)
 	
-	msg['Subject'] = 'The contents of %s' % textfile
+	msg['Subject'] = subject
 	msg['From'] = sender
 	msg['To'] = recipient
 
@@ -36,4 +30,4 @@ def send_email(sender,password,recipient):
 
 import sys
 
-send_email(sys.argv[1],sys.argv[2],sys.argv[3])
+send_email(sys.argv[1],sys.argv[2],sys.argv[3],'subject','body')
