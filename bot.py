@@ -36,8 +36,16 @@ recipient = sys.argv[3]
 
 import time
 
-subject = 'Request for an accomodation (%s)'
-body = 'Dear %s,\nwe are looking for an accomodation for n people for m night.'
+
+
+subject = 'Request for an accommodation for six adults, January 29 - January 31 (%s)'
+body = """Dear %s,
+do you have any accommodation for six adults for two nights?
+
+The check-in date would be Friday, January 29; the check-out date would be Sunday, January 31.
+
+Best Regards
+Alessandro Gentilini"""
 
 lines = [line.rstrip('\n') for line in open('list_1520.txt')]
 
