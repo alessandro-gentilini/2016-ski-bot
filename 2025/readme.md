@@ -7,7 +7,7 @@ I periodi considerati sono di tre notti, da giovedì a domenica:
 
 Il metodo di richiesta di disponibilità, tramite spedizione massiva di email (_mail bombing_) che è stato usato in passato, non è ad oggi più applicabile perché non si trovano facilmente repertori di sistemazioni e relativi indirizzi email; oramai è tutto intermediato da piattaforme di booking.
 
-## Avoriaz
+# Avoriaz
 Su booking non si trovano disponibilità per Avoriaz (probabilmente per la sua posizione isolata in alta quota, 1800mslm).
 
 ### Avoriaz - fine gennaio - booking non ha disponibilità
@@ -22,7 +22,7 @@ Su booking non si trovano disponibilità per Avoriaz (probabilmente per la sua p
 ### Avoriaz - fine febbraio - anche sito pro-loco non ha disponibilità
 ![](avoriaz/fine_febbraio/Screenshot_20241128_195648.png)
 
-## Laax
+# Laax
 
 ### Laax - fine gennaio - Prada Laax by Quokka 360 - 115€
 <!-- ![](laax/fine_gennaio/Screenshot_20241128_210937.png)-->
@@ -36,7 +36,6 @@ Su booking non si trovano disponibilità per Avoriaz (probabilmente per la sua p
 <!-- ![](laax/fine_gennaio/Screenshot_20241128_212237.png) -->
 ![](laax/fine_gennaio/Screenshot_20241128_212255.png)
 
-## Laax - fine febbraio
 ### Laax - fine febbraio - Prada Laax by Quokka 360 - 117€
 <!-- ![](laax/fine_febbraio/Screenshot_20241128_211147.png) -->
 ![](laax/fine_febbraio/Screenshot_20241128_211216.png)
@@ -50,7 +49,7 @@ Su booking non si trovano disponibilità per Avoriaz (probabilmente per la sua p
 ![](laax/fine_febbraio/Screenshot_20241128_211912.png)
 
 
-## Megève
+# Megève
 Il sito pro-loco propone solamente Hotel, non propone appartamenti.
 ### Megève - fine gennaio - Mamie Megeve - 176€
 ![](megeve/fine_gennaio/Screenshot_20241128_175313.png)
@@ -67,7 +66,6 @@ Il sito pro-loco propone solamente Hotel, non propone appartamenti.
 <!-- ![](megeve/fine_gennaio/Screenshot_20241128_182128.png) -->
 ![](megeve/fine_gennaio/Screenshot_20241128_182151.png)
 
-## Megève - fine febbraio 
 ### Megève - fine febbraio - Magnifique Appart - 175€
 <!-- ![](megeve/fine_febbraio/Screenshot_20241128_184412.png) -->
 ![](megeve/fine_febbraio/Screenshot_20241128_184430.png)
@@ -76,8 +74,8 @@ Il sito pro-loco propone solamente Hotel, non propone appartamenti.
 <!-- ![](megeve/fine_febbraio/Screenshot_20241128_184509.png) -->
 ![](megeve/fine_febbraio/Screenshot_20241128_184542.png)
 
-## Verbier
-## Verbier - fine gennaio
+# Verbier
+
 ### Verbier - fine gennaio - Verbier Village Levron - 115€
 <!-- ![](verbier/fine_gennaio/Screenshot_20241128_182744.png) -->
 ![](verbier/fine_gennaio/Screenshot_20241128_182755.png)
