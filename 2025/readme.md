@@ -32,62 +32,62 @@ Su booking non si trovano disponibilità per Avoriaz (probabilmente per la sua p
 <!-- ![](laax/fine_gennaio/Screenshot_20241128_212022.png) -->
 ![](laax/fine_gennaio/Screenshot_20241128_212042.png)
 
-### Laax - fine gennaio - Casa Mulin - 125EUR
+### Laax - fine gennaio - Casa Mulin - 125€
 <!-- ![](laax/fine_gennaio/Screenshot_20241128_212237.png) -->
 ![](laax/fine_gennaio/Screenshot_20241128_212255.png)
 
 ## Laax - fine febbraio
-### Laax - fine febbraio - Prada Laax by Quokka 360 - 117EUR
+### Laax - fine febbraio - Prada Laax by Quokka 360 - 117€
 <!-- ![](laax/fine_febbraio/Screenshot_20241128_211147.png) -->
 ![](laax/fine_febbraio/Screenshot_20241128_211216.png)
 
-### Laax - fine febbraio - Hotel Buna Luna - 105EUR
+### Laax - fine febbraio - Hotel Buna Luna - 105€
 <!-- ![](laax/fine_febbraio/Screenshot_20241128_211510.png) -->
 ![](laax/fine_febbraio/Screenshot_20241128_211532.png)
 
-### Laax - fine febbraio - Waldheim Pension - 127EUR
+### Laax - fine febbraio - Waldheim Pension - 127€
 <!-- ![](laax/fine_febbraio/Screenshot_20241128_211843.png) -->
 ![](laax/fine_febbraio/Screenshot_20241128_211912.png)
 
 
 ## Megève
 Il sito pro-loco propone solamente Hotel, non propone appartamenti.
-### Megève - fine gennaio - Mamie Megeve - 176EUR
+### Megève - fine gennaio - Mamie Megeve - 176€
 ![](megeve/fine_gennaio/Screenshot_20241128_175313.png)
-### Megève - fine gennaio - Le M de Megeve - 400EUR
+### Megève - fine gennaio - Le M de Megeve - 400€
 ![](megeve/fine_gennaio/Screenshot_20241128_175457.png)
-### Megève - fine gennaio - Les Loges Blanches - 100EUR
+### Megève - fine gennaio - Les Loges Blanches - 100€
 ![](megeve/fine_gennaio/Screenshot_20241128_175624.png)
 
-### Megève - fine gennaio - Le Refuge des Anges - 135EUR
+### Megève - fine gennaio - Le Refuge des Anges - 135€
 <!-- ![](megeve/fine_gennaio/Screenshot_20241128_182002.png) -->
 ![](megeve/fine_gennaio/Screenshot_20241128_182059.png)
 
-### Megève - fine gennaio - Charming island of calm in Megève - un sospetto 50EUR
+### Megève - fine gennaio - Charming island of calm in Megève - un sospetto 50€
 <!-- ![](megeve/fine_gennaio/Screenshot_20241128_182128.png) -->
 ![](megeve/fine_gennaio/Screenshot_20241128_182151.png)
 
 ## Megève - fine febbraio 
-### Megève - fine febbraio - Magnifique Appart - 175EUR
+### Megève - fine febbraio - Magnifique Appart - 175€
 <!-- ![](megeve/fine_febbraio/Screenshot_20241128_184412.png) -->
 ![](megeve/fine_febbraio/Screenshot_20241128_184430.png)
 
-### Megève - fine febbraio - Terresens Hotel Altima - 190EUR
+### Megève - fine febbraio - Terresens Hotel Altima - 190€
 <!-- ![](megeve/fine_febbraio/Screenshot_20241128_184509.png) -->
 ![](megeve/fine_febbraio/Screenshot_20241128_184542.png)
 
 ## Verbier
 ## Verbier - fine gennaio
-### Verbier - fine gennaio - Verbier Village Levron - 115EUR
+### Verbier - fine gennaio - Verbier Village Levron - 115€
 <!-- ![](verbier/fine_gennaio/Screenshot_20241128_182744.png) -->
 ![](verbier/fine_gennaio/Screenshot_20241128_182755.png)
 
-### Verbier - fine gennaio - Fleuron rez - 95EUR
+### Verbier - fine gennaio - Flueron rez - 95€
 <!-- ![](verbier/fine_gennaio/Screenshot_20241128_182928.png)-->
 ![](verbier/fine_gennaio/Screenshot_20241128_183055.png)
 
 ### Verbier - fine febbraio
-O una sistemazione da 855EUR oppure...
+O una sistemazione da 855€ oppure...
 ![](verbier/fine_febbraio/Screenshot_20241128_185720.png)
 ... c'è solo qualcosa nelle vicinanze:
 ![](verbier/fine_febbraio/Screenshot_20241128_185811.png)
