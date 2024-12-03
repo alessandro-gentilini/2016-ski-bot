@@ -22,6 +22,9 @@ Su booking non si trovano disponibilità per Avoriaz (probabilmente per la sua p
 ### Avoriaz - fine febbraio - anche sito pro-loco non ha disponibilità
 ![](avoriaz/fine_febbraio/Screenshot_20241128_195648.png)
 
+### Avoriaz - metà marzo - Chalet Neva - 272€
+![](avoriaz/meta_marzo/Screenshot_20241203_075611.png)
+
 # Laax
 
 ### Laax - fine gennaio - Prada Laax by Quokka 360 - 115€
@@ -48,6 +51,17 @@ Su booking non si trovano disponibilità per Avoriaz (probabilmente per la sua p
 <!-- ![](laax/fine_febbraio/Screenshot_20241128_211843.png) -->
 ![](laax/fine_febbraio/Screenshot_20241128_211912.png)
 
+### Laax - metà marzo - Waldheim Pension - 115€
+![](laax/meta_marzo/Screenshot_20241203_075833.png)
+
+### Laax - metà marzo - Prada Laax by Quokka 360 - 95€
+![](laax/meta_marzo/Screenshot_20241203_075936.png)
+
+### Laax - metà marzo - Appartamento chalet - 65€
+![](laax/meta_marzo/Screenshot_20241203_080025.png)
+
+### Laax - metà marzo - Rancho Laaxdeluxe - 100€
+![](laax/meta_marzo/Screenshot_20241203_080115.png)
 
 # Megève
 Il sito pro-loco propone solamente Hotel, non propone appartamenti.
