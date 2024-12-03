@@ -3,7 +3,7 @@
 I periodi considerati sono di tre notti, da giovedì a domenica:
 
 * fine gennaio (da giovedì 30 gennaio a domenica 2 febbraio); 
-* fine febbraio (da giovedì 27 febbraio a domenica 2 febbraio)
+* fine febbraio (da giovedì 27 febbraio a domenica 2 marzo)
 
 Il metodo di richiesta di disponibilità, tramite spedizione massiva di email (_mail bombing_) che è stato usato in passato, non è ad oggi più applicabile perché non si trovano facilmente repertori di sistemazioni e relativi indirizzi email; oramai è tutto intermediato da piattaforme di booking.
 
