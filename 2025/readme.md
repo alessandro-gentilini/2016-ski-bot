@@ -6,7 +6,7 @@ I periodi considerati sono di tre notti, da giovedì a domenica:
 * fine febbraio (da giovedì 27 febbraio a domenica 2 marzo), martedì grasso è il 4 marzo;
 * metà marzo (da giovedì 13 marzo a domenica 16 marzo).
 
-Le località sono: Avoriaz, Laax, Megève, Verbier.
+Le località sono: [Avoriaz](#avoriaz), [Laax](#laax), [Megève](#megève), [Verbier](#verbier).
 
 Il metodo di richiesta di disponibilità, tramite spedizione massiva di email (_mail bombing_) che è stato usato in passato, non è ad oggi più applicabile perché non si trovano facilmente repertori di sistemazioni e relativi indirizzi email; oramai è tutto intermediato da piattaforme di booking.
 
