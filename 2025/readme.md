@@ -3,7 +3,7 @@
 I periodi considerati sono di tre notti, da giovedì a domenica:
 
 * fine gennaio (da giovedì 30 gennaio a domenica 2 febbraio); 
-* fine febbraio (da giovedì 27 febbraio a domenica 2 febbraio)
+* fine febbraio (da giovedì 27 febbraio a domenica 2 marzo), martedì grasso è il 4 marzo.
 
 Il metodo di richiesta di disponibilità, tramite spedizione massiva di email (_mail bombing_) che è stato usato in passato, non è ad oggi più applicabile perché non si trovano facilmente repertori di sistemazioni e relativi indirizzi email; oramai è tutto intermediato da piattaforme di booking.
 
@@ -69,7 +69,7 @@ Il sito pro-loco propone solamente Hotel, non propone appartamenti.
 ![](megeve/fine_gennaio/Screenshot_20241128_175313.png)
 ### Megève - fine gennaio - Le M de Megeve - 400€
 ![](megeve/fine_gennaio/Screenshot_20241128_175457.png)
-### Megève - fine gennaio - Les Loges Blanches - 100€
+### Megève - fine gennaio - Les Loges Blanches - 150€
 ![](megeve/fine_gennaio/Screenshot_20241128_175624.png)
 
 ### Megève - fine gennaio - Le Refuge des Anges - 135€
