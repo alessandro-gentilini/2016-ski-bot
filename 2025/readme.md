@@ -55,7 +55,7 @@ Il sito pro-loco propone solamente Hotel, non propone appartamenti.
 ![](megeve/fine_gennaio/Screenshot_20241128_175313.png)
 ### Megève - fine gennaio - Le M de Megeve - 400€
 ![](megeve/fine_gennaio/Screenshot_20241128_175457.png)
-### Megève - fine gennaio - Les Loges Blanches - 100€
+### Megève - fine gennaio - Les Loges Blanches - 150€
 ![](megeve/fine_gennaio/Screenshot_20241128_175624.png)
 
 ### Megève - fine gennaio - Le Refuge des Anges - 135€
