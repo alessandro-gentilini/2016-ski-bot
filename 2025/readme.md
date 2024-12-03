@@ -88,6 +88,18 @@ Il sito pro-loco propone solamente Hotel, non propone appartamenti.
 <!-- ![](megeve/fine_febbraio/Screenshot_20241128_184509.png) -->
 ![](megeve/fine_febbraio/Screenshot_20241128_184542.png)
 
+### Megève - metà marzo - Charming island of calm in Megève - un sospetto 55€
+![](megeve/meta_marzo/Screenshot_20241203_080243.png)
+
+### Megève - metà marzo - Terresens Hotel Altima - 120€
+![](megeve/meta_marzo/Screenshot_20241203_080426.png)
+
+### Megève - metà marzo - Le refuge des Anges - 105€
+![](megeve/meta_marzo/Screenshot_20241203_080502.png)
+
+### Megève - metà marzo - Chalet Monte-Pente - un sospettosissimo 35€
+![](megeve/meta_marzo/Screenshot_20241203_080540.png)
+
 # Verbier
 
 ### Verbier - fine gennaio - Verbier Village Levron - 115€
@@ -103,3 +115,9 @@ O una sistemazione da 855€ oppure...
 ![](verbier/fine_febbraio/Screenshot_20241128_185720.png)
 ... c'è solo qualcosa nelle vicinanze:
 ![](verbier/fine_febbraio/Screenshot_20241128_185811.png)
+
+### Verbier - metà marzo - Verbier 2 beedrooms apartment scenic view - 130€
+![](verbier/meta_marzo/Screenshot_20241203_080731.png)
+
+### Verbier - metà marzo - Chalet Taipan - 130€
+![](verbier/meta_marzo/Screenshot_20241203_080819.png)
